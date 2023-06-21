@@ -2,7 +2,7 @@ class Assignment:
     @staticmethod
     def is_grade(grade):
         if grade >= 90:
-            print(f'Congratulations! Your grade of {grade} earns you an A in this course')
+            print(f'Congratulations! Your grade of {grade} earns you A in this course')
         else:
             print('Passed')
 
